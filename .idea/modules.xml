@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MultiModuleSample.iml" filepath="$PROJECT_DIR$/MultiModuleSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/hoge/hoge.iml" filepath="$PROJECT_DIR$/modules/hoge/hoge.iml" />
     </modules>
   </component>
 </project>

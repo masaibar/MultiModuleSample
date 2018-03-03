@@ -1,1 +1,4 @@
-include ':app'
+include ':app', ':hoge'
+
+def modulesRepotDir = new File('modules')
+project(':hoge').projectDir = new File(modulesRepotDir, 'hoge')
